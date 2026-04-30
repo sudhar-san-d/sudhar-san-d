@@ -25,7 +25,7 @@ I work at the intersection of **embedded hardware and firmware**: microcontrolle
 > ESP32 · L298N Motor Driver · HC-SR04 Ultrasonic · Bluetooth  
 Fully built from hardware up — chassis, motors, motor driver, battery pack, and firmware.
 Bluetooth-controlled with real-time object detection using ultrasonic sensors to halt before collisions.
-Not a simulation. Not a tutorial copy. Built it myself.
+Not a simulation. Built it myself.
 
 ### 💡 ESP8266 Smart Lighting System
 > ESP8266 · IR sensor · Sound sensor · Blynk IoT  

@@ -1,11 +1,11 @@
-# Hey, I'm Sudharsan 👋
+# Hey, I'm Sudharsan
 
 First-year ECE student at Sri Eshwar College of Engineering — not waiting for third year to start building.
 I work at the intersection of **embedded hardware and firmware**: microcontrollers talking to sensors, hardware solving real problems.
 
 ---
 
-## 🔧 What I Work With
+## What I Work With
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -17,39 +17,47 @@ I work at the intersection of **embedded hardware and firmware**: microcontrolle
 **Firmware:** C · Embedded C · Arduino IDE  
 **Protocols:** MQTT · Blynk IoT · I2C · UART · Bluetooth  
 **Tools:** Git · VS Code · Notion
+
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🚗 ESP32 RC Car — Bluetooth + Object Detection
-> ESP32 · L298N Motor Driver · HC-SR04 Ultrasonic · Bluetooth  
+### [![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)](https://github.com/sudhar-san-d) ESP32 RC Car — Bluetooth + Object Detection
+
+> ESP32 · L298N Motor Driver · HC-SR04 Ultrasonic · Bluetooth
+
 Fully built from hardware up — chassis, motors, motor driver, battery pack, and firmware.
 Bluetooth-controlled with real-time object detection using ultrasonic sensors to halt before collisions.
-Not a simulation. Built it myself.
 
-### 💡 ESP8266 Smart Lighting System
-> ESP8266 · IR sensor · Sound sensor · Blynk IoT  
+### [![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white)](https://github.com/sudhar-san-d/esp8266-smart-lighting-blynk) ESP8266 Smart Lighting System
+
+> ESP8266 · IR sensor · Sound sensor · Blynk IoT
+
 Clap, gesture, or app-controlled LED lighting. Real hardware, real sensors, deployed and working.
 
-### 🏙️ Smart City Complaint Management
-> HTML · CSS · JavaScript  
+### [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/sudhar-san-d/Smart-City-Complaint-Management-System) Smart City Complaint Management
+
+> HTML · CSS · JavaScript
+
 Interface for citizens to log and track civic complaints. Clean frontend with structured complaint routing.
 
-### 🔢 Employee Management System in C
-> Pure C · Structs · File handling  
+### [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://github.com/sudhar-san-d/employee-management-system-c) Employee Management System in C
+
+> Pure C · Structs · File handling
+
 CLI-based employee record system. Ground-up C practice — no libraries, no shortcuts.
 
 ---
 
-## 📌 Currently Building
+## Currently Building
 
-- **ESP32 RC Car v2** — adding obstacle avoidance logic and refining Bluetooth control
+- [![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)](https://github.com/sudhar-san-d) **ESP32 RC Car v2** — adding obstacle avoidance logic and refining Bluetooth control
 - Grinding through ECE fundamentals: C → Embedded C → FreeRTOS → Robotics and Automation
 - Exploring ESP32 + sensor fusion for smarter embedded systems
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 
-- 📧 sudharsand5136@gmail.com
-- 💼 www.linkedin.com/in/sudhar-san-d
+[![Gmail](https://img.shields.io/badge/sudharsand5136@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharsand5136@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/sudhar--san--d-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhar-san-d)
